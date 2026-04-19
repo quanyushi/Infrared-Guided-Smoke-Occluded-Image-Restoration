@@ -81,6 +81,8 @@ We provide an open-source dataset for infrared-guided smoke-occluded image resto
 
 After downloading, extract the dataset and place it in the `datasets/` folder.
 
+Note:The current version includes a representative subset of the full collection; the remaining data are undergoing review and systematic organization, and will be made publicly available in a subsequent update.
+
 ### Dataset Preparation
 
 Organize your dataset in the following structure:
