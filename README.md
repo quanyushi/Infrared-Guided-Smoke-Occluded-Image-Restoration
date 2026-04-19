@@ -186,22 +186,6 @@ This will test:
 - Adjust `lambda_structure` based on how much structural guidance you need
 - For high-resolution images, reduce batch size to fit in GPU memory
 
-## Troubleshooting
-
-**Training instability:**
-- Reduce learning rate
-- Adjust gradient weights
-- Check for NaN values in losses
-
-**Out of memory:**
-- Reduce batch size
-- Reduce image resolution
-- Use gradient checkpointing
-
-**Poor reconstruction quality:**
-- Increase `lambda_L1`
-- Adjust `lambda_structure`
-- Check dataset alignment
 
 ## Acknowledgments
 
