@@ -27,18 +27,7 @@ This repository implements a dual-branch encoder architecture for infrared-guide
 If you use this code for your research, please cite:
 
 ```
-[Your paper citation will go here]
-```
-
-This work is based on the pix2pix framework:
-
-```
-@inproceedings{isola2017image,
-  title={Image-to-Image Translation with Conditional Adversarial Networks},
-  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
-  booktitle={Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on},
-  year={2017}
-}
+[paper citation soon]
 ```
 
 
